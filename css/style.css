@@ -1,0 +1,11 @@
+.navbar {
+  background-color: #445878;
+  border-bottom: #92cdcf 3px solid;
+  opacity: 0.8;
+}
+.navbar-dark .navbar-brand {
+  color: #eeeff7;
+}
+.navbar-dark .navbar-nav .nav-link {
+  color: #eeeff7;
+}
