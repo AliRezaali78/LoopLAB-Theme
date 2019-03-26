@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 body {
   background-color: #31353d;
-=======
+}
 .navbar {
   background-color: #445878;
   border-bottom: #92cdcf 3px solid;
@@ -12,5 +11,4 @@ body {
 }
 .navbar-dark .navbar-nav .nav-link {
   color: #eeeff7;
->>>>>>> navbar
 }
