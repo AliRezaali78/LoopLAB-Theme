@@ -48,3 +48,16 @@ body {
   padding: 5px;
   border-radius: 5px;
 }
+
+/* Explore */
+
+#explore-section {
+  background-color: #eeeff7;
+  color: #31353d;
+}
+
+#explore-section .fas {
+  background-color: #31353d;
+  color: #eeeff7;
+  padding: 5px;
+}
