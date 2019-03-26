@@ -59,5 +59,6 @@ body {
 #explore-section .fas {
   background-color: #31353d;
   color: #eeeff7;
+  border-radius: 5px;
   padding: 5px;
 }
