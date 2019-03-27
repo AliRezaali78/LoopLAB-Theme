@@ -62,3 +62,14 @@ body {
   border-radius: 5px;
   padding: 5px;
 }
+
+#create-head-section {
+  background-color: #445878;
+}
+
+#create-section .fas {
+  background-color: #eeeff7;
+  color: #92cdcf;
+  padding: 5px;
+  border-radius: 5px;
+}
