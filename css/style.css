@@ -49,21 +49,23 @@ body {
   border-radius: 5px;
 }
 
-/* Explore */
+/* Explore, Share, Create */
 
 #explore-section {
   background-color: #eeeff7;
   color: #31353d;
 }
 
-#explore-section .fas {
+#explore-section .fas,
+#share-section .fas {
   background-color: #31353d;
   color: #eeeff7;
   border-radius: 5px;
   padding: 5px;
 }
 
-#create-head-section {
+#create-head-section,
+#share-head-section {
   background-color: #445878;
 }
 
@@ -72,4 +74,9 @@ body {
   color: #92cdcf;
   padding: 5px;
   border-radius: 5px;
+}
+
+#share-section {
+  background-color: #eeeff7;
+  color: #31353d;
 }
